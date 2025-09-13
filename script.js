@@ -1,5 +1,5 @@
 //------- Const for API Key -------//
-const apiKey = 'Your_API_Key';  // Always replace with your actual OpenWeatherMap API key
+const apiKey = '46610c31be672f024513e174e7d6e293';  // Always replace with your actual OpenWeatherMap API key
 
 //------- Async/Await with Fetch -------//
 async function getWeather() {
